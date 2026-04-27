@@ -1,4 +1,21 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&lines=Hi+I'm+Sanjeet+Kumar;Aspiring+Data+Analyst;SQL+%7C+Tableau+%7C+Python;Turning+Data+into+Insights)
+<div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 20px; border-radius: 10px; overflow: hidden;">
+
+  <h1 style="color: #00C2FF; white-space: nowrap; display: inline-block; animation: slide 6s linear infinite;">
+    Hi I'm Sanjeet Kumar | Aspiring Data Analyst | SQL | Tableau | Python | Turning Data into Insights
+  </h1>
+
+</div>
+
+<style>
+@keyframes slide {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+</style>
 
 # 👨‍💻 Sanjeet Kumar  
 ### 📊 Data Analyst | SQL | Tableau | Python  
