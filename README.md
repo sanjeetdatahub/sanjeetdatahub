@@ -27,17 +27,17 @@
 
 ## 📊 Featured Projects
 
-### 🔹 [Hotel Revenue Analysis](https://github.com/sanjeetdatahub/hotel-data-analysis)
+### 🔹 [Hotel Revenue Analysis](https://github.com/sanjeetdatahub/Hotel_Data_Analysis.git)
 - 📌 SQL queries for revenue insights  
 - 📊 Tableau dashboard  
 - 💡 Booking trends & revenue insights  
 
-### 🔹 [Superstore Sales Analysis](https://github.com/sanjeetdatahub/superstore-analysis)
+### 🔹 [Superstore Sales Analysis](https://github.com/sanjeetdatahub/Superstore_Sales_Analysis.git)
 - 📌 Data cleaning & transformation  
 - 📊 Sales dashboard  
 - 💡 Profit & category insights  
 
-### 🔹 [Zomato Data Analysis](https://github.com/sanjeetdatahub/zomato-analysis)
+### 🔹 [Zomato Data Analysis](https://github.com/sanjeetdatahub/Zomato-Data-Analysis-Project.git)
 - 📌 Customer behavior analysis  
 - 📊 Visualization  
 - 💡 Location-based insights  
