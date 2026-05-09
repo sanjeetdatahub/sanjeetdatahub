@@ -2,17 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Sanjeet+Kumar;Aspiring+Data+Analyst;SQL+%7C+Tableau+%7C+Python;Turning+Data+into+Insights" />
 </p>
 
-# 👨‍💻 Sanjeet Kumar  
-### 📊 Data Analyst | SQL | Tableau | Python  
+# 👨‍💻 Sanjeet Kumar
+### 📊 Data Analyst | SQL | Tableau | Python
 
 ---
 
 ## 🧠 About Me
-- 🎓 MBA Student – Manipal University Jaipur  
-- 📊 Passionate about Data Analysis & Visualization  
-- 💼 Background in Accounting & Finance  
-- 📈 Focused on building real-world data projects  
-- 🎯 Goal: Become a Data Analyst  
+- 🎓 MBA Student – Manipal University Jaipur
+- 📊 Passionate about Data Analysis & Visualization
+- 💼 Background in Accounting & Finance
+- 📈 Focused on building real-world data projects
+- 🎯 Goal: Become a Data Analyst
 
 ---
 
@@ -27,58 +27,54 @@
 
 ## 📊 Featured Projects
 
-### 🔹 [Hotel Revenue Analysis](https://github.com/sanjeetdatahub/Hotel_Data_Analysis.git)
-- 📌 SQL queries for revenue insights  
-- 📊 Tableau dashboard  
-- 💡 Booking trends & revenue insights  
+### 🔹 Hotel Revenue Analysis
+- 📌 SQL queries for revenue insights
+- 📊 Tableau dashboard
+- 💡 Booking trends & revenue insights
 
-### 🔹 [Superstore Sales Analysis](https://github.com/sanjeetdatahub/Superstore_Sales_Analysis.git)
-- 📌 Data cleaning & transformation  
-- 📊 Sales dashboard  
-- 💡 Profit & category insights  
+🔗 https://github.com/sanjeetdatahub/Hotel_Data_Analysis
 
-### 🔹 [Zomato Data Analysis](https://github.com/sanjeetdatahub/Zomato-Data-Analysis-Project.git)
-- 📌 Customer behavior analysis  
-- 📊 Visualization  
-- 💡 Location-based insights  
+---
+
+### 🔹 Superstore Sales Analysis
+- 📌 Data cleaning & transformation
+- 📊 Sales dashboard
+- 💡 Profit & category insights
+
+🔗 https://github.com/sanjeetdatahub/Superstore_Sales_Analysis
+
+---
+
+### 🔹 Zomato Data Analysis
+- 📌 Customer behavior analysis
+- 📊 Visualization
+- 💡 Location-based insights
+
+🔗 https://github.com/sanjeetdatahub/Zomato-Data-Analysis-Project
 
 ---
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
-![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeetdatahub&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeetdatahub&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sanjeetdatahub&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sanjeetdatahub&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- 📧 Email: sanjeetkumar474@yahoo.com 
-- 📱 Phone: +91-7543090343 
+- 📧 Email: sanjeetkumar474@yahoo.com
 - 💼 LinkedIn: https://www.linkedin.com/in/sanjeet-kumar-aryan
 
 ---
 
 ⭐ *"Turning raw data into meaningful insights"*
-
-<!--
-**sanjeetdatahub/sanjeetdatahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
