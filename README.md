@@ -46,6 +46,8 @@
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
+
 ![Sanjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeetdatahub&show_icons=true&theme=tokyonight)
 
 ---
